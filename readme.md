@@ -13,3 +13,6 @@ Project initialization phase.
 - Choose library (python-telegram-bot / aiogram)
 - Setup base structure
 - Setup Git workflow
+
+## 📄 Team Rules
+- Do not push in main (Dilarang push ke main)
