@@ -1,18 +1,4 @@
-# JIHADIN - Telegram Bot Project
+## JIHADIN TEAM REPOSITORY
 
-## 🚧 Status
-Project initialization phase.
-
-## 👥 Team
-- Amru 
-- Hafidz
-- Jiyaad
-
-## 📌 Next Step
-- Define bot purpose
-- Choose library (python-telegram-bot / aiogram)
-- Setup base structure
-- Setup Git workflow
-
-## 📄 Team Rules
-- Do not push in main (Dilarang push ke main)
+# DILARANG PUSH DI MAIN
+# BUAT BRANCH SENDIRI-SENDIRI
